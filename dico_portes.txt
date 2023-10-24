@@ -1,0 +1,8 @@
+(3, 1), ("L'indentation (les espaces au début d'une ligne) ne sont pas importants en Python: Vrai ou Faux ?", "Faux")
+(7, 4), ("Dans la langue française, quelle est la lettre (minuscule) la plus fréquemment utilisée ?", "e")
+(12, 4), ("En quelle année Christophe Colomb a-t-il accosté sur les terres d'Amérique ?", "1492")
+(1, 7), ("Dans un dictionnaire python, la clé doit toujours être une chaîne de caractères: Vrai ou Faux ?", "Faux")
+(10, 8), ("Quelle est la capitale du Luxembourg (N'oubliez pas la majuscule !)?", "Luxembourg")
+(1, 9), ("La syntaxe \'return None\' est correcte: Vrai ou Faux ?", "Vrai")
+(6, 9), ("En python, quel est l'opérateur \'supérieur ou égale à\' ?", ">=")
+(14, 9), ("En python, que vaut '[0,1,2,3][-1]' ?", "3")
