@@ -8,3 +8,7 @@ All files are required:
 - dico_objets.txt: File containing the key objects to be retrieved and their position in the map
 - dico_portes.txt: File containing the questions and answers needed to unlock the doors and their position in the map
 - plan_chateau.txt: File containing the map
+
+## Preview:
+
+<img src="5UFKKR9.png" alt="...">
